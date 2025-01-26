@@ -111,6 +111,7 @@ int main() {
 	struct Node* node = NULL;
 	Push(&node, 10);
 	Push(&node, 20);
+	Push(&node, 50);
 	Push(&node, 30);
 	Push(&node, 40);
 	Display(node);
@@ -119,6 +120,7 @@ int main() {
 	printf("Max :%d \n", GetMax(node));
 	printf("Min :%d \n", GetMin(node));
 	printf("Min :%d \n", GetMin(node));
+	printf("Max :%d \n", GetMax(node));
 
 	return 0;
 

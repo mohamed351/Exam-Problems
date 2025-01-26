@@ -1,0 +1,3 @@
+﻿  main.c
+E:\Project 2025\Data-Structure-and-Alogrithm\DataStructureAndAlgorithm  in C\ExamProblems\LinkedListToMatrix\LinkedListToMatrix\main.c(48,15): warning C4047: 'initializing': 'Node *' differs in levels of indirection from 'Node **'
+  LinkedListToMatrix.vcxproj -> E:\Project 2025\Data-Structure-and-Alogrithm\DataStructureAndAlgorithm  in C\ExamProblems\LinkedListToMatrix\x64\Debug\LinkedListToMatrix.exe
